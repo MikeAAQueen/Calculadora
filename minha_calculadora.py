@@ -13,7 +13,7 @@ def divisao(a,b):
 def main():
     x = int(input("Digite um número: "))
     y = int(input("Digite outro número: "))
-    print(f"A soma de {x} e {y} é {soma(x, y)}")
+    print(f"A soma da alegria de {x} e {y} é {soma(x, y)}")
     print(f"A subtração de {x} e {y} é {subtracao(x, y)}")
     print(f"A multiplicação de {x} e {y} é {multiplicacao(x, y)}")
     print(f"A divisão de {x} e {y} é {divisao(x, y)}")
